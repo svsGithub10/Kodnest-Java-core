@@ -1,0 +1,10 @@
+Write a JAVA program to display the below pattern :
+
+*****
+****
+***
+**
+*
+
+1> Take the user input for the value of n
+2> Take the user input for the character
