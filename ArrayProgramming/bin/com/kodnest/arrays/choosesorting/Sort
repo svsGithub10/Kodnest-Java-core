@@ -1,0 +1,16 @@
+** Write a java program to perform different types of sorting
+on array. Give options to user as follows:
+1. Press 1 to perform bubble sort in ascending order
+2. Press 2 to perform selection sort in ascending order
+3. Press 3 to perform insertion sort in ascending order
+4. Press 4 to perform bubble sort in descending order
+5. Press 5 to perform selection sort in descending order
+6. Press 6 to perform insertion sort in descending order
+Note: All sorting logics should be present in the static methods
+as follows:
+1. bubble sort in ascending order – bubbleSortAsc()
+2. selection sort in ascending order – selectionSortAsc()
+3. insertion sort in ascending order – insertionSortAsc()
+4. bubble sort in descending order – bubbleSortDesc()
+5. selection sort in descending order – selectionSortDesc()
+6. insertion sort in descending order – insertionSortDesc()

@@ -1,0 +1,11 @@
+** Write a java program to create an array and give options to
+user to perform linear search and binary search.
+Give options as follows:
+1. Press 1 to perform linear search
+2. Press 2 to perform binary search
+Note: Both searching logics should be present in the different
+static methods as shown below:
+1. Linear Search – linearSearch()
+2. Binary Search – binarySearch()
+Note: Binary search should be performed only if the array is in
+sorted order otherwise print-”Enter the array in sorted order”
