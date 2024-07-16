@@ -1,0 +1,5 @@
+**Algorithm to print the number of characters present in each words present in the given sentence
+
+Step 1: Take a string as user input.
+Step 2: Split the string at spaces and assign it to a string array.
+Step 3: Using for each loop size of the each string element will be number of characters of each words.
