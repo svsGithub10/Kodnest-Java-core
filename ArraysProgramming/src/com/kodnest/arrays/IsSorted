@@ -1,0 +1,4 @@
+** Write a java program to check whether an array is sorted or
+not.
+If array is sorted – print “It is sorted”
+Otherwise – print “It is not sorted”

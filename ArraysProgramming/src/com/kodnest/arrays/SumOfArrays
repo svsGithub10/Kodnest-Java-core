@@ -1,0 +1,7 @@
+Problem Statement:
+
+** Calculate the sum of corresponding elements of an array and
+store in a 3rd array:
+Problem: We're given two arrays of the same size, and we want
+to create a third array such that each element in this array is the
+sum of the corresponding elements in the first two arrays.

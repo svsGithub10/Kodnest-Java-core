@@ -1,0 +1,10 @@
+Problem statement :
+** Write a java Program to create an integer array by taking length as
+input from the user. take the contents of the array from user and
+store the contents in the array. Display the contents of the array on to
+the console.
+
+Explanation :
+** Here we have to create an array of size n which is given by the user
+and also the elements of the array are stored in array which is given by
+user and have to print all the elements of array using for loop. 
